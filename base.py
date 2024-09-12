@@ -7,7 +7,7 @@ import argparse
 # import t2v_metrics
 
 client = OpenAI(
-    api_key="sk-f7a1bb32a1774d669bc96685d8cdd915", base_url="https://api.deepseek.com"
+    api_key="**-*", base_url="https://api.deepseek.com"
 )
 
 # response = client.chat.completions.create(
